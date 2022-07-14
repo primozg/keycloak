@@ -1,8 +1,0 @@
-<jboss-deployment-structure>
-    <deployment>
-        <dependencies>
-            <module name="org.keycloak.keycloak-server-spi-private"/>
-            <module name="org.keycloak.keycloak-ldap-federation"/> 
-        </dependencies>
-    </deployment>
-</jboss-deployment-structure>
