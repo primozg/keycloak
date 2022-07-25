@@ -1,0 +1,8 @@
+org/keycloak/storage/ldap/mappers/ppolicy/OpenLDAPConstants.class
+org/keycloak/storage/ldap/mappers/ppolicy/PPolicyUserAccountControlStorageMapperFactory.class
+org/keycloak/storage/ldap/mappers/ppolicy/PPolicyUserAccountControlStorageMapper.class
+org/keycloak/storage/ldap/mappers/ppolicy/UserAccountControl.class
+org/keycloak/storage/ldap/mappers/ppolicy/PPolicyControl.class
+org/keycloak/storage/ldap/mappers/ppolicy/PPolicyUserAccountControlStorageMapper$PPolicyUserModelDelegate.class
+org/keycloak/storage/ldap/mappers/ppolicy/LDAPServerPolicyHintsDecorator.class
+org/keycloak/storage/ldap/mappers/ppolicy/PPolicyLDAPStorageProvider.class
