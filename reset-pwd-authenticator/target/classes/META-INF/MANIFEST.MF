@@ -1,1 +1,0 @@
-Dependencies: org.keycloak.keycloak-server-spi-private, org.keycloak.keycloak-services, org.keycloak.keycloak-server-spi, org.keycloak.keycloak-core, org.keycloak.keycloak-saml-core
